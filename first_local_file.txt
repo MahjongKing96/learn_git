@@ -1,1 +1,3 @@
 This is the first local file
+
+In branch dev, I add this line, to see conflict files' behavior.

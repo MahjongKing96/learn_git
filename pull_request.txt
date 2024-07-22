@@ -1,2 +1,4 @@
 This is a file created in branch dev.
 It's meant to test no-conflict files' behavior in pull request.
+
+This line is meant to test the Github desktop function.

@@ -1,2 +1,0 @@
-This is a file created in branch dev.
-It's meant to test no-conflict files' behavior in pull request.

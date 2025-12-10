@@ -12,3 +12,5 @@ Third line wrote in branch pr_test.
 Fourth line wrote in branch pr_test.
 
 First line wrote in branch main.
+
+wrote on git sync

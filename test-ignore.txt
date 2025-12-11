@@ -1,0 +1,3 @@
+test ignore
+
+If I ignore a file on PC, will other devices ignore it automatically?

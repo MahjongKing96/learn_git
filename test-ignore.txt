@@ -4,3 +4,4 @@ If I ignore a file on PC, will other devices ignore it automatically?
 
 10:03 Add a line on device2 and commit.
 
+10:10 add and commit
